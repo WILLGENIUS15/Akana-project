@@ -50,3 +50,10 @@ alert(females[4]);
 else if(gender == "female" && result==6){
 alert(females[5]);
 }
+else if (gender == "female" && result==6){
+alert(females[6]);
+}
+else{
+alert("null");
+}
+}
