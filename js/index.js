@@ -32,3 +32,9 @@ alert(males[5]);
 else if(gender == "male" && result==6){
 alert(males[6]);
 }
+else if(gender == "female" && result==0){
+alert(females[0]);
+}
+else if(gender == "female" && result==1){
+alert(females[1]);
+}
