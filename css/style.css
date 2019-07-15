@@ -1,1 +1,29 @@
 
+#mk1{
+  float: right;
+  margin-right: 700px;
+}
+
+.jumbotron{
+     font-family: 'Noto Sans TC', sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1422207215953-98b4bc18c3d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80);
+}
+h1{
+  color: White;
+}
+strong{
+  color: White;
+}
+
+p{
+  font-size: 30px;
+  color:White
+}
+img{
+  opacity: 0.5;
+
+}
+
+ol{
+  color:#0000FF ;
+}
