@@ -44,3 +44,9 @@ alert(females[2]);
 else if(gender == "female" && result==3){
 alert(females[3]);
 }
+else if(gender == "female" && result==4){
+alert(females[4]);
+}
+else if(gender == "female" && result==6){
+alert(females[5]);
+}
