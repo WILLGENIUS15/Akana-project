@@ -26,3 +26,9 @@ alert(males[3]);
 else if(gender == "male" && result==4){
 alert(males[4]);
 }
+else if(gender == "male" && result==5){
+alert(males[5]);
+}
+else if(gender == "male" && result==6){
+alert(males[6]);
+}
