@@ -8,9 +8,15 @@ var mm = parseInt(prompt("Enter the month"));
 var dd = parseInt(prompt("Enter the date of birth"));
 var gender= prompt("your gender")
 var result=day(cc,yy,mm,dd).toFixed();
-
+/* alert(result);  */
 var males=["Kwasi","kwadwo","Kwabena","Kwaku","Yaw", "Kofi", "Kwame"];
 var females=["Akosua","Adwoa","Abenaa","Akua", "Yaa", "Afua", "Ama"];
 if (gender=="male" && result== 0){
 alert(males[0]);
+}
+else if(gender == "male" && result==1){
+alert(males[1]);
+}
+else if(gender == "male" && result==2){
+alert(males[2]);
 }
